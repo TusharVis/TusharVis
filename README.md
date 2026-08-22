@@ -234,11 +234,11 @@ Full-Stack Development
 # 📊 GitHub Analytics
 
 <div align="center">
+  
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharVis&layout=compact&theme=tokyonight&hide_border=true"
-height="170"
+src="https://streak-stats.demolab.com?user=TusharVis&theme=tokyonight&hide_border=true"
+width="70%"
 />
-
 </div>
 
 ---
